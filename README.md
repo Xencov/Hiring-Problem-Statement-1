@@ -7,6 +7,7 @@ Write a REST API using Node.js (any framework) which does the following:
 * API needs to have proper validation in place
 * Use of any open-source module is allowed
 * PostgresSQL needs to be used as the database
+* Sample data set to be used for testing and model creation -> http://eforexcel.com/wp/wp-content/uploads/2020/09/5m-Sales-Records.zip
 
 
 
