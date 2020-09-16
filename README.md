@@ -1,4 +1,4 @@
-# Hiring-Problem-Statement-1
+# Hiring Problem Statement 1
 
 Write a REST API using Node.js (any framework) which does the following:
 
